@@ -39,7 +39,8 @@ setup(
     author=AUTHOR,
     description=DESCRIPTION,
     packages=find_packages(),
-    install_requires=get_requirement_list(),
+    
+
 
 )
 
