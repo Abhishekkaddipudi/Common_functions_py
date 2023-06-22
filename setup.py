@@ -5,7 +5,7 @@ Project_Name="PYPI PUBLISHING"
 Version="0.0.0.1"
 AUTHOR="Abhishek"
 DESCRIPTION="Experiment For publishing"
-PACKAGES=["PYPI PUBLISHING"]
+PACKAGES=["Common_functions"]
 
 
 def get_requirement_list()->List[str]:
