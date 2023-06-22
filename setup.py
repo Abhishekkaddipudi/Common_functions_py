@@ -16,6 +16,7 @@ setup(
     author=AUTHOR,
     description=DESCRIPTION,
     packages=find_packages(),
+    long_description="foo bar baz"
     
 
 
